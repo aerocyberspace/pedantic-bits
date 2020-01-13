@@ -1,0 +1,3 @@
+test file
+some creds
+domain\av8raccount@snowsaving.com:qdczk0921knakznn
