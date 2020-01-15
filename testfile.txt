@@ -1,4 +1,4 @@
 test file
 some creds
-domain\av8raccount@snowsaving.com:qdczk0921knakznn
-domain\akj1093v8raccount@snowsaving.com:qdczk0921132412knakznn
+authstring 'domain\av8raccount@snowsaving.com:qdczk0921knakznn'
+authstring 'domain\akj1093v8raccount@snowsaving.com:qdczk0921132412knakznn'
